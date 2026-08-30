@@ -1,0 +1,8 @@
+{
+  "name": "LLAURI FACTO 29-08",
+  "description": "Aplicación web para el registro de comprobantes de ventas, gastos y compras con escáner IA, decodificador SUNAT QR, directorio de clientes/proveedores y reportes financieros mensuales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
